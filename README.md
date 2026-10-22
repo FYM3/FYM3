@@ -41,7 +41,6 @@
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/OOP-FF5722?style=for-the-badge" alt="OOP" />
 
 ### ⚙️ .NET & Desktop Development
 
